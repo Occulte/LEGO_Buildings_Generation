@@ -1,4 +1,4 @@
-# LEGO_Buildings_Generation
+# Learn to Create Simple LEGO Micro Buildings
 Office code repository for the paper "Learn to Create Simple LEGO Micro Buildings"
 
 ## Dataset
