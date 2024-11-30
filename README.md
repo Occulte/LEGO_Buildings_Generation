@@ -1,5 +1,5 @@
 # Learn to Create Simple LEGO Micro Buildings
-Office code repository for the paper "Learn to Create Simple LEGO Micro Buildings"
+Official code repository for the paper "Learn to Create Simple LEGO Micro Buildings"
 
 ## Dataset
 
@@ -20,7 +20,7 @@ You can download the dataset via the [link](https://mycuhk-my.sharepoint.com/:u:
 
 ## Brick set
 
-You need to download the annotated brick information form the [link](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155209932_link_cuhk_edu_hk/EUAhfXQBSotOj_3qqvQRt1ABiTlII95Kwv2wtqh0N3Hb3g?e=cWbulc).
+You need to download the annotated brick information from the [link](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155209932_link_cuhk_edu_hk/EUAhfXQBSotOj_3qqvQRt1ABiTlII95Kwv2wtqh0N3Hb3g?e=cWbulc).
 
 Then, you need to replace the `local_brick_data_path` with the download path in the `brick_factory.py`.
 
